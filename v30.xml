@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="BADA-187/android_device_lge_joan-common" path="device/lge/joan-common" remote="github" revision="bootleg" />
+  <project name="BADA-187/android_device_lge_h930" path="device/lge/h930" remote="github" revision="bootleg" />
+  <project name="BADA-187/android_device_lge_h932" path="device/lge/h932" remote="github" revision="bootleg" />
+  <project name="BADA-187/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="lineage-16.0" />
+  <project name="BADA-187/android_kernel_lge_msm8998" path="kernel/lge/msm8998" remote="github" revision="lineage-16.0" />
+</manifest>
